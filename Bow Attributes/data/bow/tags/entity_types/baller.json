@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-	"minecraft:wither",
-	"minecraft:blaze",
-	"minecraft:ghast",
-	"minecraft:ender_dragon"
-  ]
-}

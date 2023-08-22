@@ -1,0 +1,10 @@
+{
+    "values": [
+        "minecraft:pillager",
+        "minecraft:illusioner",
+        "minecraft:piglin",
+        "minecraft:skeleton",
+        "minecraft:wither_skeleton",
+        "minecraft:player"
+    ]
+}
