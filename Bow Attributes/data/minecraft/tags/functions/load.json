@@ -1,6 +1,5 @@
 {
-	"replace": false,
-	"values": [
-		"bow:load"
-	]
+    "values": [
+        "bow_attributes:load/main"
+    ]
 }

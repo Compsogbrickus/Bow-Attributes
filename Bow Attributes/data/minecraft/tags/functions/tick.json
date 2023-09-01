@@ -1,6 +1,5 @@
 {
-	"replace": false,
-	"values": [
-		"bow:tick"
-	]
+    "values": [
+        "bow_attributes:tick/main"
+    ]
 }
