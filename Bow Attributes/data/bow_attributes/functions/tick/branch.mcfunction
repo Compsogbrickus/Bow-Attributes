@@ -2,7 +2,7 @@
 # execute as @s[type=trident] run function bow:tridents
 # execute as @s[type=#bow:ball] run function bow:ball
 # execute as @s[type=#bow:throw,tag=!range] run function bow:throws
-# execute as @s[type=#minecraft:arrows] run function bow_attributes:arrow/main
+execute as @s[type=#minecraft:arrows] run function bow_attributes:arrow/main
 # execute as @s[type=item] run function bow:items
 # execute as @s[tag=launched,tag=!range] run function bow:launched
 # execute as @s[tag=visual] run function bow:visual

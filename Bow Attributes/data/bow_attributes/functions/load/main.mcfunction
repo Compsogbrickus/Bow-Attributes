@@ -2,7 +2,7 @@
 
 # General and settings
 scoreboard objectives add bow.setup dummy
-scoreboard objectives add bow.visual dummy
+# scoreboard objectives add bow.visual dummy
 scoreboard objectives add bow.custom_crits dummy
 scoreboard objectives add bow.uuid.compare dummy "UUID Compare"
 

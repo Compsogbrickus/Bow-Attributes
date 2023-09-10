@@ -1,0 +1,1 @@
+execute unless data storage bow_attributes:player mainhand{id:"minecraft:firework_rocket"} run function bow_attributes:crossbow/charge_offhand/do
